@@ -1,0 +1,9 @@
+As an Admin, I want to update user roles and permissions so that I can ensure users only access what they need.
+
+Acceptance Criteria:
+
+
+Admin can assign or change user roles
+
+Admin can update permissions associated with a role
+Admin can update permissions associated with a role

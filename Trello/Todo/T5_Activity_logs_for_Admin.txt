@@ -1,0 +1,7 @@
+As an Admin, I want to view activity logs so that I can audit security events.
+
+Acceptance Criteria:
+
+Log shows: user, action, timestamp, object
+
+Filter by user/date

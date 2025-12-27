@@ -1,0 +1,7 @@
+As an Admin, I want to log in so that I can manage users, roles, and system security.
+
+Acceptance Criteria:
+
+Admin dashboard loads with management menu
+
+Access to logs + role management visible

@@ -1,0 +1,9 @@
+As an Admin, I want to create user accounts so that staff can access the system.
+
+Acceptance Criteria:
+
+Requires role + username + email
+
+Temporary password/activation sent
+
+User appears in user list
